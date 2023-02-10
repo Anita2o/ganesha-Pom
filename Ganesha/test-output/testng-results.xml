@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-08T06:35:43 IST" name="Default suite" finished-at="2023-02-08T06:35:57 IST" duration-ms="13919">
+  <suite started-at="2023-02-09T11:52:36 IST" name="Default suite" finished-at="2023-02-09T11:52:57 IST" duration-ms="20668">
     <groups>
       <group name="smoke">
         <method signature="LoginTest.verifyBuildTitleName()[pri:-1, instance:test.LoginTest@3a44431a]" name="verifyBuildTitleName" class="test.LoginTest"/>
@@ -17,33 +17,33 @@
         <method signature="LoginTest.verifyTitleofLoginPage()[pri:0, instance:test.LoginTest@3a44431a]" name="verifyTitleofLoginPage" class="test.LoginTest"/>
       </group> <!-- regrression -->
     </groups>
-    <test started-at="2023-02-08T06:35:43 IST" name="Default test" finished-at="2023-02-08T06:35:57 IST" duration-ms="13919">
+    <test started-at="2023-02-09T11:52:36 IST" name="Default test" finished-at="2023-02-09T11:52:57 IST" duration-ms="20668">
       <class name="test.LoginTest">
-        <test-method is-config="true" signature="initBrowser()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:43 IST" name="initBrowser" finished-at="2023-02-08T06:35:53 IST" duration-ms="10026" status="PASS">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:36 IST" name="initBrowser" finished-at="2023-02-09T11:52:52 IST" duration-ms="15815" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method is-config="true" signature="pageobjects()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:53 IST" name="pageobjects" finished-at="2023-02-08T06:35:53 IST" duration-ms="47" status="PASS">
+        <test-method is-config="true" signature="pageobjects()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:52 IST" name="pageobjects" finished-at="2023-02-09T11:52:52 IST" duration-ms="94" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageobjects -->
-        <test-method signature="verifyBuildTitleName()[pri:-1, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:53 IST" name="verifyBuildTitleName" finished-at="2023-02-08T06:35:53 IST" duration-ms="19" status="PASS">
+        <test-method signature="verifyBuildTitleName()[pri:-1, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:52 IST" name="verifyBuildTitleName" finished-at="2023-02-09T11:52:52 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBuildTitleName -->
-        <test-method signature="verifyTitleofLoginPage()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:53 IST" name="verifyTitleofLoginPage" finished-at="2023-02-08T06:35:54 IST" duration-ms="449" status="PASS">
+        <test-method signature="verifyTitleofLoginPage()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:52 IST" name="verifyTitleofLoginPage" finished-at="2023-02-09T11:52:53 IST" duration-ms="704" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitleofLoginPage -->
-        <test-method signature="verifyCurrentUrlofPage()[pri:1, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:54 IST" name="verifyCurrentUrlofPage" finished-at="2023-02-08T06:35:54 IST" duration-ms="14" status="PASS">
+        <test-method signature="verifyCurrentUrlofPage()[pri:1, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:53 IST" name="verifyCurrentUrlofPage" finished-at="2023-02-09T11:52:53 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCurrentUrlofPage -->
-        <test-method signature="verifyLoginwithCorrectCredientials()[pri:2, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:54 IST" name="verifyLoginwithCorrectCredientials" finished-at="2023-02-08T06:35:56 IST" duration-ms="2406" status="PASS">
+        <test-method signature="verifyLoginwithCorrectCredientials()[pri:2, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:53 IST" name="verifyLoginwithCorrectCredientials" finished-at="2023-02-09T11:52:56 IST" duration-ms="3250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginwithCorrectCredientials -->
-        <test-method is-config="true" signature="tearDowmEnvirnment()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-08T06:35:56 IST" name="tearDowmEnvirnment" finished-at="2023-02-08T06:35:57 IST" duration-ms="894" status="PASS">
+        <test-method is-config="true" signature="tearDowmEnvirnment()[pri:0, instance:test.LoginTest@3a44431a]" started-at="2023-02-09T11:52:56 IST" name="tearDowmEnvirnment" finished-at="2023-02-09T11:52:57 IST" duration-ms="692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDowmEnvirnment -->
